@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-F_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-B_Cu.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-F_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-B_Paste.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-F_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-B_Mask.gbr'.
+Plotted to 'C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-Edge_Cuts.gbr'.
+Gerber-Jobdatei "C:\Users\Administrator\Documents\bed_occupacy_sensor\bed_occupacy_sensor-job.gbrjob" wurde erstellt.
+Hinweis: Fertig.
