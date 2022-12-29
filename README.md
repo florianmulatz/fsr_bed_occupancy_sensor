@@ -6,5 +6,5 @@ This is my first try to design a PCB for the FSR - BedOccupancy Sensor from
 
 Feel free to contribute :)
 
-![image](https://user-images.githubusercontent.com/33655308/209462254-de66d248-e989-4883-a323-115a36f9ad52.png)
-![image](https://user-images.githubusercontent.com/33655308/209462268-8cd4aa8e-d3bd-4fa6-b06b-abe0181c65fa.png)
+![image](https://user-images.githubusercontent.com/33655308/209939071-61c3385c-a19d-4759-8b11-c98b0469ba92.png)
+![image](https://user-images.githubusercontent.com/33655308/209938997-755aef28-13d7-456a-abe1-0ca88b4f2555.png)
