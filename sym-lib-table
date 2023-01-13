@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "phoenixcontact_1729160")(type "KiCad")(uri "D:/KiCAD/phoenixcontact_1729160.kicad_sym")(options "")(descr ""))
-  (lib (name "PPPC102LFBN-RC")(type "KiCad")(uri "D:/KiCAD/PPPC102LFBN-RC.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/_ADMIN/_MY_KICAD_LIBRARY/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "C:/_ADMIN/_MY_KICAD_LIBRARY/ESP32_mini_KiCad_Library-master/ESP32_mini.kicad_sym")(options "")(descr ""))
 )
