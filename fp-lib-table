@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name "KiCAD")(type "KiCad")(uri "D:/KiCAD")(options "")(descr ""))
+  (lib (name "KiCAD")(type "KiCad")(uri "D:/KiCAD")(options "")(descr "")(disabled))
+  (lib (name "_MY_KICAD_LIBRARY")(type "KiCad")(uri "C:/_ADMIN/_MY_KICAD_LIBRARY")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "C:/_ADMIN/_MY_KICAD_LIBRARY/ESP32_mini_KiCad_Library-master/ESP32_mini.pretty")(options "")(descr ""))
 )
